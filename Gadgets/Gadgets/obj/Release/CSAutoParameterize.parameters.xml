@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="GadgetsAppDB-Web.config Connection String" description="GadgetsAppDB Connection String used in web.config by the application to access the database." defaultValue="Server=sql6.freemysqlhosting.net;Database=sql6455367;Uid=sql6455367;Pwd=qV8C7Npy6R;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\HP\ CC130\\Desktop\\New\ folder\\FSD\ Project\\GadgetsAPI\\Gadgets\\Gadgets\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='GadgetsAppDB']/@connectionString" />
+  </parameter>
+</parameters>
